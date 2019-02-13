@@ -193,7 +193,6 @@ export default class ShopCart extends Vue {
       el.style.display = 'none'
     }
   }
-
   private _showShopCartList() {
     // @ts-ignore
     this.shopCartListComp =
